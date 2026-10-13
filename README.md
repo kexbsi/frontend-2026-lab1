@@ -1,11 +1,19 @@
-# Основи FE-технологій — лабораторні роботи
+# Основи FE-технологій — Лабораторна робота №1
 
-Студент: Рудь Станіслав Сергійович, група ІП-44, варіант 122.
+**Тема:** «Мова гіпертекстової розмітки сайту HTML-5»
+**Студент:** Рудь Станіслав Сергійович, група ІП-44, варіант 122.
 
-| ЛР | Тема | Код | Сайт |
-|----|------|-----|------|
-| 1 | Мова гіпертекстової розмітки сайту HTML-5 | [lab1/](lab1/) | `https://<username>.github.io/<repo>/lab1/` |
+- Сайт (GitHub Pages): https://kexbsi.github.io/frontend-2026-lab1/
+- Сторінка: [index.html](index.html)
 
 ## Запуск локально
 
-Відкрити `lab1/index.html` у будь-якому браузері (сервер не потрібен).
+```bash
+git clone https://github.com/kexbsi/frontend-2026-lab1.git
+```
+
+Відкрити `index.html` у браузері (сервер не потрібен).
+
+## Джерела
+
+Фото: Maksym Kozlenko, [2017-05-22 Maidan Nezalezhnosti at night 3.jpg](https://commons.wikimedia.org/wiki/File:2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg), CC BY-SA 4.0.
